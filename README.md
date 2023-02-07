@@ -1,4 +1,4 @@
-### Hi there, I'm Eryk Szczepanek! <img src="https://giphy.com/embed/xT9IgG50Fb7Mi0prBC" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img> 👋
+### Hi there, I'm Eryk Szczepanek! <img src="https://giphy.com/embed/xT9IgG50Fb7Mi0prBC" width="30px"></img> 👋
 
 
 **Erykov9/Erykov9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
