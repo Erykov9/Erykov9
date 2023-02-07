@@ -1,11 +1,11 @@
-### Hi there, I'm Eryk Szczepanek! <iframe src="https://giphy.com/embed/xT9IgG50Fb7Mi0prBC" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-wave-xT9IgG50Fb7Mi0prBC">via GIPHY</a></p> 👋
+### Hi there, I'm Eryk Szczepanek! <img src="https://giphy.com/embed/xT9IgG50Fb7Mi0prBC" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img> 👋
 
 
 **Erykov9/Erykov9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
