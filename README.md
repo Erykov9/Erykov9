@@ -6,19 +6,19 @@
 
 ## Tech Stack
 
-**Client:** React, Redux/MobX, TypeScript, JavaScript, JSX
+**Client:** React/Next.js, Redux/MobX/Zustand, TypeScript, JavaScript, JSX
 
-**UI/UX:** Bootstrap, MaterialUI, CSS, SCSS
+**UI/UX:** Bootstrap, MaterialUI, Tailwind, CSS, SCSS, Less, RadixUI
 
-**Server:** C#, ASP.NET Core, EF Core, NodeJS, ExpressJS
+**Server:** NodeJS, ExpressJS
 
-**Database:** MS SQL, MySQL
+**Database:** MongoDB
 
 **Version Control:** Git, Github
 
 **Methodology:** Kanban, GitFlow, SCRUM, Conventional Commits
 
-**Other:** Azure, VSC, Visual Studio, Postman, Swagger, Jira, Figma, JWT, Yarn, NPM
+**Other:** VSC, Postman, Swagger, Jira, Figma, JWT, Yarn, NPM, Storybook
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eryk-szczepanek)
@@ -33,11 +33,4 @@
 [![Eryk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erykov9&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erykov9&layout=compact&theme=gruvbox&hide=css,html,scss,shell,procfile,handlebars)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📁 PROJECTS
-Currently working at my newest project which is Marketplace for sports gear and clothes. 
-
-[![repo](https://img.shields.io/badge/frontend-000066?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erykov9/SportMarket-Frontend)
-
-[![repo](https://img.shields.io/badge/backend-006000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erykov9/SportMarket-Backend)
 
